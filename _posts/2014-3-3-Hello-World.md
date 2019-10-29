@@ -7,3 +7,5 @@ title: Git 린이 start
 먹고 살기 위한 배움의 몸부림이랄까.
 
 ![2nyang](https://steemitimages.com/640x0/https://ipfs.busy.org/ipfs/QmNjZ6AgzxQ7g5j3A5fZp96oLQBQwYjs6f4pRTXcqSoZAy)
+
+냥짤은 조공입니다.
