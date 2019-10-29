@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Git 린이 start
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+이렇게 곶통 받으면서 블로그질을 할 줄은 몰랐는데...
+먹고 살기 위한 배움의 몸부림이랄까.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![2nyang](https://steemitimages.com/640x0/https://ipfs.busy.org/ipfs/QmNjZ6AgzxQ7g5j3A5fZp96oLQBQwYjs6f4pRTXcqSoZAy)
